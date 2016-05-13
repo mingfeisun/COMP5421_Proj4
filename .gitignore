@@ -1,4 +1,6 @@
 *~
 *.pdf
 *.zip
+*.7z
 data/
+others/
